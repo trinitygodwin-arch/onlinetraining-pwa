@@ -1,1 +1,16 @@
-
+{
+  "name": "Online Training Nigeria",
+  "short_name": "OnlineTraining",
+  "start_url": "https://www.onlinetraining.com.ng/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#2196F3",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "https://images.squarespace-cdn.com/content/v1/58b857731b631b017b204683/1517408851491-T3MOL9682O2G92H9DDK9/ke17ZwdGBToddI8pDm48kF6uJ4Yh9uT7Kks9Pz5t8rUUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoQc_st3sXJzo71S76g1Q6S4v_g8DDR7MInwRshf4_sU_13Gg7fC-9F6VdZlZkM4mO38A6B1vR8m9YV8_HjD8p5u1V4U4wR0/AppIcon.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    }
+  ]
+}
